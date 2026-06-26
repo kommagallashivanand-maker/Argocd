@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: html-app
-        image: your-dockerhub-user/html-demo:v1
+        image: shivanand02/html-demo:v1
         ports:
         - containerPort: 80

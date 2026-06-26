@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: html-app
-        image: shivanand02/html-demo:v3
+        image: shivanand02/html-demo:v4
         ports:
         - containerPort: 80
